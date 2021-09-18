@@ -1,4 +1,4 @@
-👋 Hi, I’m @MatteoBoffa, a Master Degree Engineering student at Politecnico di Torino and Machine Learning Analysts. 
+👋 Hi, I’m @MatteoBoffa, a Master Degree Engineering student at Politecnico di Torino and Machine Learning Analyst. 
 
 My academic path so far has provided me a solid background in big-data applications, databases and machine learning. 
 Particularly, I've had the opportunity of practically apply my theoretical knowledges with real-world examples in the Smart-City framework.
