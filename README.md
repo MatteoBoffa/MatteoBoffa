@@ -7,7 +7,7 @@ The latest state-of-art techniques in the field has been mostly applied to a res
 Machine Learning promises automation: at its best, without needing domain-experts or tailored solutions, it can generalize beyond the problem's tipology and numerosity. 
 Even if currently far from this achievement, the revolutionary advantages this would bring are, in my opinion, worth the time and effort of researchers.   
 
-Don't esitate to contact me on my [personal email](boffa.matteo.97@gmail.com) or [linkedin profile](linkedin.com/in/matteo-boffa-414a72206)!
+Don't esitate to contact me on my [personal email](boffa.matteo.97@gmail.com) or [linkedin profile](https://www.linkedin.com/in/matteo-boffa-414a72206)!
 
 <!---
 MatteoBoffa/MatteoBoffa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
